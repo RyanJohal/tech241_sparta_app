@@ -1,4 +1,4 @@
-### CI/CD TEST Jenkinsv3 webhook again
+### CI/CD TESTing Jenkinsv3 webhook again
 ## Sparta Node Sample App
 
 ## Description
