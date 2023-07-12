@@ -1,4 +1,4 @@
-### CI/CD TEST merger v2
+### CI/CD TEST cd
 ## Sparta Node Sample App
 
 ## Description
